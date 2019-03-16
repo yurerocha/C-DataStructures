@@ -1,0 +1,1 @@
+Implementation of a C generic dynamically allocated stack to hold any primitive data type.
